@@ -9,3 +9,14 @@ Try the following and console log the result:
 
 Add your code below
 */
+
+console.log(8 + 3);
+console.log(8 * 3);
+console.log(9 / 3);
+console.log(2 ** 2);
+console.log(((9 / 3) * 8) / 6);
+
+console.log(0.1 + 0.2);
+console.log(2 ** 53);
+console.log(2 ** 53 + 1);
+console.log(Infinity - Infinity);
